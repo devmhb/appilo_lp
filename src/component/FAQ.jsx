@@ -31,6 +31,7 @@ const FAQ = () => {
             3 Easy Step to Create &amp; Selling Your NFTs.
             <span>
               <img
+                alt="img"
                 decoding="async"
                 className="inline"
                 src="https://themexriver.com/appilo-theme/nft/wp-content/uploads/sites/60/2022/03/title-icon2.png"
@@ -297,7 +298,7 @@ const FAQ = () => {
                 <img
                   decoding="async"
                   src="https://themexriver.com/appilo-theme/nft/wp-content/uploads/sites/60/2022/03/video.png"
-                  alt=""
+                  alt="img"
                 />
               </div>
               <div>

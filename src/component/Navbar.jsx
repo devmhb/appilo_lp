@@ -1,5 +1,5 @@
 import React from "react";
-import { PriBtn } from "./Button";
+// import { PriBtn } from "./Button";
 
 const Navbar = () => {
   return (

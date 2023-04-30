@@ -1,7 +1,5 @@
 import React from "react";
-import MarketPlaceCard from "./MarketPlaceCard";
 import { PriBtn } from "./Button";
-import { SecBtn } from "./Button";
 import MarketPlaceCards from "./MarketPlaceCards";
 
 const MarketPlace = () => {
