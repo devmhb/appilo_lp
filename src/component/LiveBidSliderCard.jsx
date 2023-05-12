@@ -5,7 +5,7 @@ const LiveBidSliderCard = () => {
     <div className="linearbg mx-auto mt-20 border-[2px] border-[#3003c4] p-10">
       <div className="flex justify-between">
         <div className="basis-[50%]">
-          <div className="flex justify-between">
+          <div className="flex justify-center gap-5 lg:justify-between flex-wrap ">
             <h4 className="font-bold text-2xl ">Diamond Horses Art #57</h4>
             <div>
               <span className="bg-[#FF3E76] p-2 mr-4">❤ 22</span>

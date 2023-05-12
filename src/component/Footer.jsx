@@ -5,7 +5,7 @@ import { BsBehance, BsTwitter } from "react-icons/bs";
 const Footer = () => {
   return (
     <div className="bg-black text-white">
-      <div className="py-20 max-w-[90%] mx-auto flex flex-wrap justify-between">
+      <div className="py-20 max-w-[90%] mx-auto flex flex-wrap justify-center gap-12 lg:justify-between">
         <div>
           <img
             src="/images/25_coming_soon_logo-1.png"

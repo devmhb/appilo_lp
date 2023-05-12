@@ -30,7 +30,7 @@ const Navbar = () => {
             </li>
           </ul>
         </div>
-        <button className="pribtn mr-6">Button</button>
+        <button className="pribtn mr-6 w-fit">Button</button>
       </div>
     </nav>
   );

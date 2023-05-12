@@ -27,7 +27,7 @@ const FAQ = () => {
     <div className="flex flex-col items-center bg-black text-white py-20">
       <div className="w-[90%]">
         <div className="pb-4">
-          <h1 className="font-bold text-4xl w-[40%] leading-snug">
+          <h1 className="font-bold text-4xl w-full lg:w-[40%] leading-snug">
             3 Easy Step to Create &amp; Selling Your NFTs.
             <span>
               <img
@@ -116,7 +116,7 @@ const FAQ = () => {
           </div>
         </div> */}
         <div
-          className="p-4  rounded-lg md:p-8  flex justify-between"
+          className="p-4  rounded-lg md:p-8  flex justify-between flex-wrap"
           id="faq"
           role="tabpanel"
           aria-labelledby="faq-tab"

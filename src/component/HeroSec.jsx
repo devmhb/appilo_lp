@@ -5,7 +5,7 @@ const HeroSec = () => {
   return (
     <div className="bg-black flex text-white justify-between  flex-wrap relative  w-full mx-auto">
       <div className="max-w-[90%] mx-auto">
-        <div className="max-w-[90%] mx-auto">
+        <div>
           <div>
             <img
               src="/images/b-sh1.png"
@@ -15,7 +15,7 @@ const HeroSec = () => {
           </div>
           <div className=" pt-[15%] relative flex flex-row flex-wrap lg:justify-between justify-center">
             <div className="lg:basis-[65%]">
-              <h1 className="text-white text-3xl lg:text-7xl leading-tight font-semibold lg:w-[80%]">
+              <h1 className="text-white text-3xl lg:text-7xl leading-loose font-semibold lg:w-[80%]">
                 Collect Digital Rare Art Discover Buy
                 <span
                   className="p-5"
